@@ -1,6 +1,6 @@
 ﻿docute.init({
   sidebar: false,
-  home: '/docs/server/readme.md',
+  home: './server/readme.md',
   nav: [
     {
       title: 'Controller',
